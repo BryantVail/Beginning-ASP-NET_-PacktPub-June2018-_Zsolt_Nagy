@@ -1,0 +1,31 @@
+
+HTTP
+    Definition: 
+        structured text that uses hyperlinks
+    http 1.1
+        text based
+    http 2.0
+        binary
+    Network Tab:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
