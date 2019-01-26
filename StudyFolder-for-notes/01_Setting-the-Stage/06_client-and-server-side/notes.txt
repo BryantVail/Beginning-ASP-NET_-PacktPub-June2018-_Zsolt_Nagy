@@ -1,0 +1,24 @@
+
+
+
+web dev is made to convert server code into 
+    html, css, & javascript
+    **Primary objective
+rpc
+    soap
+    "remote procedure call"
+rest
+    more coupling between client & server 
+    "representational state transfer"
+    
+
+
+
+
+
+
+
+
+
+
+

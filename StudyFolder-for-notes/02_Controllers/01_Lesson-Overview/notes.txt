@@ -1,0 +1,28 @@
+
+
+requests from the server and produce response
+
+controller recieves the request and produces output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

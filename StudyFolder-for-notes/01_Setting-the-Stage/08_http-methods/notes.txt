@@ -1,0 +1,29 @@
+
+
+    idempotency:
+        -change server side state, only 1x
+        multiple idempotent requests, net result as if there was only that request 1x.
+    Safety:
+        do not cause 'side effects', 
+        retrieval only 
+        no changes, 
+        not:
+            viewing user info
+        get: method only used by google queries on sites
+    Cacheability:
+        server/ client caching 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+
+controller talks to the model
+
+
+
+
+
+
+
+
+
+
+

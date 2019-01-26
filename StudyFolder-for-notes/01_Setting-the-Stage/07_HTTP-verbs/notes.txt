@@ -1,0 +1,43 @@
+
+
+http verbs
+    GET
+    HEAD
+    POST
+    PUT
+    DELETE
+    TRACE
+    OPTIONS
+    CONNECT
+    PATCH
+
+    Server can return XML for one and JSON for another.
+
+    REST standardization
+        get: 
+            not authoring anything on the server 
+            queries in the url
+        post: 
+            not visible to the end user
+            not really secure
+            visible in the body of the req 
+            change the state of the user 
+            requests a resource with POST 
+        put: 
+            indepotend*:
+                duplicate reqs won't change resource
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+

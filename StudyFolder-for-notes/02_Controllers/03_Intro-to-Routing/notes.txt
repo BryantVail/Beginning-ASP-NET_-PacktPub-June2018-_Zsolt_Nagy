@@ -1,0 +1,73 @@
+
+
+
+"{controller = hello}/{action = greeting}/{id?}"
+
+
+public class HelloController : Controller{
+    public ActionResult Greeting(int id){
+        return View();
+    }
+}
+
+url2: http://localhost/hello/greeting2
+
+public class HelloController: Controller
+{
+    public ActionResult Greeting(int id)
+    {
+        return View();
+    }
+
+    public ActionResult Greeting2(int id)
+    {
+        return View();
+    }
+
+}
+
+url3: http://localhost/Hello2/greeting2
+
+public class Hello2Controller : Controller {
+
+    public ActionResult Greeting2(int id){
+        return View();
+    }
+}
+
+
+url4: http//localhost/hello3/greeting2/1
+
+public class Hello3Controller : Controller {
+    public ActionResult greeting2(int id) {
+        return View();
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
