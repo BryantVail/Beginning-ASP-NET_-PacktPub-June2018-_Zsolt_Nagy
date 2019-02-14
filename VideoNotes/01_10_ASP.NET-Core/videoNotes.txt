@@ -1,0 +1,7 @@
+public class ValuesController: Controller 
+{
+    //GET api/<controller>
+    public IEnumerable<string> Get(){
+        return new string[] {"Value1", "Value2"};
+    }
+}

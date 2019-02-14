@@ -1,0 +1,9 @@
+Post: 
+    Request Info: 
+        not visible to end user
+        passed in the body of the request so not seen by the end user in the URL.
+            NOT secure!!!
+        Changes State of the server
+Idempotent: 
+    multiple requests return the same result
+        Get
