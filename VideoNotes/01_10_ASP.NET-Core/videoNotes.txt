@@ -5,3 +5,12 @@ public class ValuesController: Controller
         return new string[] {"Value1", "Value2"};
     }
 }
+
+2:06
+file> new> "Project..."
+    Web> ASP.NET Core Web Application
+
+
+
+
+
